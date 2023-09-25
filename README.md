@@ -44,4 +44,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaColomboIT&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Find me on Linkedin:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreacolombo-it/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/-andreacolombo-) 
