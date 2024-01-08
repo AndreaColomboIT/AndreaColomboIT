@@ -1,12 +1,12 @@
 <p align="center"> <img  width="200px" height="200px" src="https://i.postimg.cc/8ztfWRzr/H4.png"> </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=0CF7BE&background=FF1BF200&center=true&vCenter=true&width=700&lines=FullStack+Engineer+%40AndreaColomboIT;Always+learning+new+things;Caffeine+Addict..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=0CF7BE&background=FF1BF200&center=true&vCenter=true&width=700&lines=Software+Engineer+%40AndreaColomboIT;Always+learning+new+things;Caffeine+Addict..." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <em>
-    Hello, I am Andrea Colombo a <b>FullStack Developer</b> from Lecco, Italy. <br>
+    Hello, I am Andrea Colombo a <b>Software Engineer</b> from Lecco, Italy. <br>
     <b>I'm a passionate self-learner </b> always searching for new experiences. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
   <br>
  <b><i align="center">Thought : </b> "If you only do what you can do, you will never be more than you are now”</i>
